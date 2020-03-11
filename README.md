@@ -37,93 +37,21 @@ Utilizamos o ```git``` e ```github``` para registrar os arquivos e discussões n
 * [Github](https://github.com/) - Necessário conta no repositório para trabalhar nas aulas e estudar em casa
 * [UriOnlineJudge](https://www.urionlinejudge.com.br/judge/pt) - Necessária conta no UriOnlineJudge para ler os problemas e testá-los
 
-### Primeiros passos:
-
-Instale as aplicações acima e crie conta nos sites. Após isto acesse o repositório em [github.com/mleitejunior/ct-coder-sup](https://github.com/mleitejunior/ct-coder-sup), clique na estrela e no botão Fork
-
-O github irá pedir um nome para o repositório e ele irá para o seu github, pode manter o mesmo ou alterar se quiser.
-
-Após isso é só clonar seu repositório em seu computador e acessar o projeto através do NetBeans, seguindo os comandos abaixo.
-
-### Códigos GIT necessários para o curso:
-
-Durante as aulas acessaremos o git através de linha de comando, os principais commandos serão:
-
-```
-git config --global user.name "Meu username"
-```
-Para configurar seu nome no git de seu computador, é necessário escrever exatamente o mesmo da sua conta github.
-
-
-```
-git config --global user.email "Meu email"
-```
-Para configurar seu email no git de seu computador, também necessário escrever exatamente o mesmo da sua conta github.
-
-
-```
-git clone https://github.com/username/ct-coder-sup
-```
-Para colocar os arquivos do projeto em seu computador (rodar este código na pasta NetBeansProjects dentro de seus documentos).
-
-
-Após criar suas soluções, você pode salvá-las no repositório remoto através dos comandos:
-
-
-```
-git status
-```
-Para verificar se seu repositório está atualizado ou não em relação ao remoto, caso não estiver utilize o ```git pull```
-
-
-```
-git add nomedoarquivo.extensao
-```
-Para enfileirar um arquivo específico para ser enviado ao repositório remoto (precisa do caminho relativo ou completo)
-
-
-```
-git add .
-```
-Para enfileirar TODOS os arquivos que ainda não foram marcados.
-
-
-```
-git commit -m "Mensagem de atualização"
-```
-Para preparar os arquivos enfileirados para serem enviados ao servidor remoto através do push.
-
-
-```
-git push -u origin master
-```
-Para enviar efetivamente os arquivos para o github.com.
-
-
-Caso você tenha ja feito algum push em outro computador e vai mexer no seu repositório local desatualizado, utilize o comando:
-
-```
-git pull
-```
-"Puxa" todos os arquivos do repositório remoto para seu repositório local, atualizando-os.
-
-### Pra que serve o arquivo README.md dentro de minha pasta pessoal no solutions?
-
-Assim como este arquivo que você está lendo agora, o seu readme.md servirá para sua apresentação pessoal e anotações de recursos importantes aprendidos para pesquisa posterior, além de ser uma colinha para depois levar as competições.
-
 ### Tenho dúvidas, como peço ajuda?
 
 As dúvidas de código podem ser enviadas diretamente para mim através de issues no repositório ou então para toda a comunidade na plataforma discord.
 
 ### Terminei os desafios passados na aula e quero enviá-los ao master, como faço?
 
-Após realizar seus commits e pushs, faça um pull request no repositório que eu analisarei todo inicio de semana e envio resposta até quarta feira.
+Coloque os arquivos em sua pasta pessoal em solucoes, faça um pull request no repositório que eu analisarei todo inicio de semana e envio resposta até quarta feira.
 
 ### Contatos:
 
 Qualquer outra dúvida, sugestão ou problema pode me contatar por email: ```mleitejunior@gmail.com```
 
+### Canal do Youtube
 
+[https://www.youtube.com/channel/UC82iwdwn6WfW8_xA0seHEQQ](https://www.youtube.com/channel/UC82iwdwn6WfW8_xA0seHEQQ)
 
 ### Agradecimentos
 
