@@ -20,16 +20,16 @@ Tendo instalado o JDK e NetBeans:
 
 ### System.out.println() ou "sout"
 
-A função `prinln` mostra na tela tudo o que for colocado dentro de seus parâmetros, no caso dentro dos parênteses. Ela é uma função chamada do sistema com o intuito de saída, por isso o `System.out` antes dela.
+A função `println` mostra na tela tudo o que for colocado dentro de seus parâmetros, no caso dentro dos parênteses. Ela é uma função chamada do sistema com o intuito de saída, por isso o `System.out` antes dela.
 
-É possível imprimir valores de variaveis, textos (Strings) e até mesmo manipular código dentro dela, como soma de valores. Para nossas aulas iremos utilizar na maioria dos casos uma String seguida de variáveis. Como neste exemplo: `System.out.println("X = " + soma)`
+É possível imprimir valores de variaveis, textos (Strings) e até mesmo manipular código dentro dela, como soma de valores. Para nossas aulas iremos utilizar na maioria dos casos uma String seguida de variáveis. Como neste exemplo: `System.out.println("X = " + soma);`
 
 ### Tipos de dados
 
 Precisamos dizer ao computador com quais dados vamos trabalhar, em Java temos os seguintes tipos de dados:
 
 <a href="https://www.geeksforgeeks.org/data-types-in-java/">
-![Tipos de Dados em Java](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191105111644/Data-types-in-Java.jpg)
+  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191105111644/Data-types-in-Java.jpg" alt="Tipos de dados em JAVA">
 </a>
 
 Iremos utilizar mais os tipos `int`, `float` e `String` nos problemas básicos, porém ja adianto a descrição de todos aqui neste arquivo:

@@ -22,7 +22,7 @@ Após concluir seus testes, copie o código de dentro do psvm e cole no modelo d
 
 ### Como enviar uma solução para o UriOnlineJudge?
 
-Logado em sua conta, selecione o problema, o resolva em seu arquivo em NetBeans e depois clique em ENVIAR na esquerda junto à outras opções.
+Logado em sua conta, selecione o problema, o resolva em seu arquivo em NetBeans e depois clique em ENVIAR na esquerda junto à outras opções na página do problema.
 
 Selecione a linguagem Java (no curso estamos usando o 7, não java 8).
 Copie suas importações no início do arquivo SEM APAGAR a importação do IOException.
