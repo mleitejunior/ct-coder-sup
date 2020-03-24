@@ -27,7 +27,7 @@
 | Luiz Henrique de Oliveira Soares | :question: | :question: | :question: |
 | Luiz Eduardo Milan Pereira | :question: | :question: | :question: |
 | Luíz Gustavo | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Marcelo Leite | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Marcelo Leite | :heavy_check_mark: | :heavy_check_mark: | :question: |
 | Marcos Daniel de Souza Cardoso | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Maycon Ivis Franca Carpes | :heavy_check_mark: | :question: | :question: |
 | Matheus de Oliveira Santos | :question: | :question: | :question: |
