@@ -15,7 +15,7 @@
 | Caio V. Marques da Silva | :question: | :question: | :question: |
 | Emerson Renaki de Paiva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Gustavo Oliveira Silveira | :question: | :question: | :question: |
-| Igor Alves Figueiredo | :question: | :question: | :question: |
+| Igor Alves Figueiredo | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | João Paulo Ferreira | :question: | :question: | :question: |
 | Josias de Oliveira | :question: | :question: | :question: |
 | Lucas Viana da Silva | :question: | :question: | :question: |
