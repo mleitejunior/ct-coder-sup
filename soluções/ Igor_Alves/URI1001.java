@@ -1,17 +1,19 @@
 import java.io.IOException;
 import java.util.Scanner;
- 
+
 
 public class Main {
  
     public static void main(String[] args) throws IOException {
-       Scanner sc = new Scanner(System.in);
+ 
+      Scanner sc = new Scanner(System.in);
         
-        double raio = sc.nextDouble();
-        double pi = 3.14159;
-        double area = pi * (raio*raio);
+        int A = sc.nextInt();
+        int B = sc.nextInt();
         
-        System.out.printf("A=%.4f\n", area);
+        int X = A+B;
+        
+        System.out.println("X = " + X);
     }
  
 }
