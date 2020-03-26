@@ -10,7 +10,6 @@
 | Allan de Lima Lopes Moreira | :question: | :question: | :question: |
 | Alex de Souza Soares Jr | :question: | :question: | :question: |
 | Alex Silva Rodrigues | :question: | :question: | :question: |
-| Bruno de Souza | :question: | :question: | :question: |
 | Bruna Delmouro da Silva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Caio V. Marques da Silva | :question: | :question: | :question: |
 | Emerson Renaki de Paiva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
