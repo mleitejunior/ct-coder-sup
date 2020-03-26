@@ -14,7 +14,7 @@
 | Bruna Delmouro da Silva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Caio V. Marques da Silva | :question: | :question: | :question: |
 | Emerson Renaki de Paiva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Gustavo Oliveira Silveira | :question: | :question: | :question: |
+| Gustavo Oliveira Silveira | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Igor Alves Figueiredo | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | João Paulo Ferreira | :question: | :question: | :question: |
 | Josias de Oliveira | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
