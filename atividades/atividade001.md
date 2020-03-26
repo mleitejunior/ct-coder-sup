@@ -17,7 +17,7 @@
 | Gustavo Oliveira Silveira | :question: | :question: | :question: |
 | Igor Alves Figueiredo | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | João Paulo Ferreira | :question: | :question: | :question: |
-| Josias de Oliveira | :question: | :question: | :question: |
+| Josias de Oliveira | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Lucas Viana da Silva | :question: | :question: | :question: |
 | Luis Henrique Freire de Lima | :question: | :question: | :question: |
 | Luiz Henrique de Oliveira Soares | :question: | :question: | :question: |
