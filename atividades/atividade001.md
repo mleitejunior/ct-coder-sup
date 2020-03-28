@@ -8,7 +8,7 @@
 | Nome  | URI1001 | URI1002  | URI1003 |
 | ------------- | ------------- | ------------- | ------------- |
 | Allan de Lima Lopes Moreira | :question: | :question: | :question: |
-| Alex de Souza Soares Jr | :question: | :question: | :question: |
+| Alex de Souza Soares Jr | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Alex Silva Rodrigues | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Bruna Delmouro da Silva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Caio V. Marques da Silva | :question: | :question: | :question: |
