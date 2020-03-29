@@ -23,4 +23,4 @@
 | Marcelo Leite | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marcos Daniel de Souza Cardoso | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Matheus de Oliveira Santos | :question: | :question: | :question: |
-| Matheus F. Ribeiro | :question: | :question: | :question: |
+| Matheus F. Ribeiro | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
