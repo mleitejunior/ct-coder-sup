@@ -1,0 +1,42 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args){
+       
+    	Scanner sc = new Scanner(System.in);
+        int valor = sc.nextInt();
+       
+        if (valor < 1000000 && valor > 0){
+            int notasDe100 = valor/100;
+            int resto100 = valor - notasDe100*100;
+
+            int notasDe50 = resto100/50;
+            int resto50 = resto100 - notasDe50*50;
+
+            int notasDe20 = resto50/20;
+            int resto20 = resto50 - notasDe20*20;
+
+            int notasDe10 = resto20/10;
+            int resto10 = resto20 - notasDe10*10;
+
+            int notasDe5 = resto10/5;
+            int resto5 = resto10 - notasDe5*5;
+
+            int notasDe2 = resto5/2;
+            int resto2 = resto5 - notasDe2*2;
+
+            int notasDe1 = resto2/1;
+            int resto1 = resto2 - notasDe1;
+
+            System.out.println(valor);
+            System.out.println(notasDe100 + " nota(s) de R$ 100,00");
+            System.out.println(notasDe50 + " nota(s) de R$ 50,00");
+            System.out.println(notasDe20 + " nota(s) de R$ 20,00");
+            System.out.println(notasDe10 + " nota(s) de R$ 10,00");
+            System.out.println(notasDe5 + " nota(s) de R$ 5,00");
+            System.out.println(notasDe2 + " nota(s) de R$ 2,00");
+            System.out.println(notasDe1 + " nota(s) de R$ 1,00"); 
+            
+        }
+    	}
+	}
