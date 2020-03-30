@@ -6,7 +6,7 @@ public class Main {
         double pi = 3.14159;
         double volume;
         
-        volume = (4/3.0)*pi*Math.pow(r,r);
+        volume = (4/3.0)*pi*r*r*r;
         System.out.printf("VOLUME = %.3f\n",volume);
     }
 }
