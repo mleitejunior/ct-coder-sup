@@ -17,7 +17,7 @@
 | Igor Alves Figueiredo | :question: | :question: | :question: | URI1015 :question: |
 | Josias de Oliveira | :question: | :question: | :question: | URI1013 :question: |
 | Lucas Viana da Silva | :question: | :question: | :question: | URI1013 :question: |
-| Luis Henrique Freire de Lima | :question: | :question: | :question: | URI1019 :question: |
+| Luis Henrique Freire de Lima | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1019 :question: |
 | Luiz Henrique de Oliveira Soares | :question: | :question: | :question: | URI1018 :question: |
 | Marcelo Leite | :question: | :question: | :question: | URI1019 :question: |
 | Marcos Daniel de Souza Cardoso | :question: | :question: | :question: | URI1018 :question: |
