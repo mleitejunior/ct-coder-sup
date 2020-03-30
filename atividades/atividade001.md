@@ -17,7 +17,7 @@
 | Igor Alves Figueiredo | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Josias de Oliveira | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Lucas Viana da Silva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Luis Henrique Freire de Lima | :question: | :question: | :question: |
+| Luis Henrique Freire de Lima | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Luiz Henrique de Oliveira Soares | :question: | :question: | :question: |
 | Marcelo Leite | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marcos Daniel de Souza Cardoso | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
