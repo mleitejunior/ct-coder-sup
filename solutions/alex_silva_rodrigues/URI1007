@@ -1,0 +1,16 @@
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		
+		Scanner scan1 = new Scanner(System.in);
+		int A = scan1.nextInt();
+		int B = scan1.nextInt();
+		int C = scan1.nextInt();
+		int D = scan1.nextInt();
+		
+		System.out.println("DIFERENCA = " + (A*B-C*D));
+		
+	}
+
+}
