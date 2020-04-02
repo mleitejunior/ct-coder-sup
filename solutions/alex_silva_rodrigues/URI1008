@@ -1,0 +1,20 @@
+import java.util.Scanner;
+import java.text.DecimalFormat;
+
+public class Main {
+    public static void main(String[] args) {
+        
+        DecimalFormat casas = new DecimalFormat("#.00");
+
+    Scanner scan1 = new Scanner(System.in);
+    int empNumber = scan1.nextInt();    
+
+    int workedHours = scan1.nextInt();    
+    
+    float HW = scan1.nextFloat();    
+    
+    System.out.println("NUMBER = " + empNumber );
+    System.out.println("SALARY = U$ " + casas.format((workedHours*HW)));
+    }
+    
+}
