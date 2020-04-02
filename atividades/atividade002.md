@@ -8,7 +8,7 @@
 | Nome  | URI1006 | URI1007  | URI1008 | Desafio |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Allan de Lima Lopes Moreira | :question: | :question: | :question: | URI1018 :question: |
-| Alex de Souza Soares Jr | :question: | :question: | :question: | URI1019 :question: |
+| Alex de Souza Soares Jr | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1019 :heavy_check_mark: |
 | Alex Silva Rodrigues | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1018 :heavy_check_mark: |
 | Bruna Delmouro da Silva | :question: | :question: | :question: | URI1018 :question: |
 | Caio V. Marques da Silva | :question: | :question: | :question: | URI1015 :question: |
