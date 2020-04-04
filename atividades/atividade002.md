@@ -15,7 +15,7 @@
 | Emerson Renaki de Paiva | :question: | :question: | :question: | URI1015 :question: |
 | Gustavo Oliveira Silveira | :question: | :question: | :question: | URI1013 :question: |
 | Igor Alves Figueiredo | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1015 :heavy_check_mark: |
-| Josias de Oliveira | :question: | :question: | :question: | URI1013 :question: |
+| Josias de Oliveira | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1013 :heavy_check_mark: |
 | Lucas Viana da Silva | :question: | :question: | :question: | URI1013 :question: |
 | Luis Henrique Freire de Lima | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1019 :question: |
 | Luiz Henrique de Oliveira Soares | :question: | :question: | :question: | URI1018 :question: |
