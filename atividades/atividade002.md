@@ -19,7 +19,7 @@
 | Lucas Viana da Silva | :question: | :question: | :question: | URI1013 :question: |
 | Luis Henrique Freire de Lima | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1019 :question: |
 | Luiz Henrique de Oliveira Soares | :question: | :question: | :question: | URI1018 :question: |
-| Marcelo Leite | :question: | :question: | :question: | URI1019 :question: |
+| Marcelo Leite | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1019 :heavy_check_mark: |
 | Marcos Daniel de Souza Cardoso | :question: | :question: | :question: | URI1018 :question: |
 | Matheus de Oliveira Santos | :question: | :question: | :question: | URI1013 :question: |
 | Matheus F. Ribeiro | :heavy_check_mark: | :heavy_check_mark: | :question: | URI1015 :question: |
