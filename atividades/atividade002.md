@@ -10,7 +10,7 @@
 | Allan de Lima Lopes Moreira | :question: | :question: | :question: | URI1018 :question: |
 | Alex de Souza Soares Jr | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1019 :heavy_check_mark: |
 | Alex Silva Rodrigues | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1018 :heavy_check_mark: |
-| Bruna Delmouro da Silva | :question: | :question: | :question: | URI1018 :question: |
+| Bruna Delmouro da Silva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1018 :heavy_check_mark: |
 | Caio V. Marques da Silva | :question: | :question: | :question: | URI1015 :question: |
 | Emerson Renaki de Paiva | :question: | :question: | :question: | URI1015 :question: |
 | Gustavo Oliveira Silveira | :question: | :question: | :question: | URI1013 :question: |
