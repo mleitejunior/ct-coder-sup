@@ -12,7 +12,7 @@
 | Alex Silva Rodrigues | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1018 :heavy_check_mark: |
 | Bruna Delmouro da Silva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1018 :heavy_check_mark: |
 | Caio V. Marques da Silva | :question: | :question: | :question: | URI1015 :question: |
-| Emerson Renaki de Paiva | :question: | :question: | :question: | URI1015 :question: |
+| Emerson Renaki de Paiva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1015 :heavy_check_mark: |
 | Gustavo Oliveira Silveira | :question: | :question: | :question: | URI1013 :question: |
 | Igor Alves Figueiredo | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1015 :heavy_check_mark: |
 | Josias de Oliveira | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | URI1013 :heavy_check_mark: |
