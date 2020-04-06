@@ -2,10 +2,15 @@
 
 - Encontrar algum desafio que necessite de algum dos recursos da linguagem java abaixo: 
 `Três ou mais diferentes tipos de dados`
+
 `Operador Módulo (resto, ou %)`
+
 `Algum operador lógico (pode ser e &&, ou ||, negação !)`
+
 `Declaração if ou if else`
+
 `Iteração for ou while`
+
 Obs: Não pode ser do URI1001 até o URI1008, pode usar do URI1009 para frente...
 - Resolver os problemas, fazer comentários no código sobre o que levou a utilizar o recurso (justificar o uso).
 - Enviar soluções em sua pasta no repositório do github (solutions/nome_sobrenome/)
