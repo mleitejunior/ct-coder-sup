@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		int a,b,c,d;
+		
+		a = sc.nextInt();
+		b = sc.nextInt();
+		c = sc.nextInt();
+		d = sc.nextInt();
+		 
+    // Neste problema, tive de usar o operador "&&" 5 vezes, pois o problema me dava 5 condições para retornar verdadeiro, estas
+    // que foram listadas abaixo.
+     
+		if(b>c && d>a && c+d>a+b && c > 0 && d > 0 && a % 2 == 0) {
+			System.out.println("Valores aceitos");
+		}else{
+			System.out.println("Valores nao aceitos");
+		}
+	}
+
+}
