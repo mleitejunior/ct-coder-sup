@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+       
+        Scanner sc = new Scanner(System.in);
+
+        int i = sc.nextInt();
+        int j = 1;
+        
+        // Neste problema, houve a necessidade da utilização do for, que possui 3 parâmetros: início,fim e atribuição. Como eu sei
+        // o ponto inicial e final do código (inicia-se no 1 e termina no 10), posso fazer a utilização do 'for'.
+        
+        for(j=1;j<=10;j++){
+            System.out.println(j + " x " + i + " = " + j*i);
+            
+        }
+        }
+        }
