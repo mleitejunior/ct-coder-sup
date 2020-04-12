@@ -21,8 +21,8 @@ Obs: Não pode ser do URI1001 até o URI1008, pode usar do URI1009 para frente..
 | Nome  | Tip.Dados | Módulo | Op.Lógico | If else | Iteração |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Allan de Lima Lopes Moreira | :question: | :question: | :question: | :question: | :question: |
-| Alex de Souza Soares Jr | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Alex Silva Rodrigues | :question: | :question: | :question: | :question: | :question: |
+| Alex de Souza Soares Jr | :question: | :question: | :question: | :question: | :question: |
+| Alex Silva Rodrigues | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Bruna Delmouro da Silva | :question: | :question: | :question: | :question: | :question: |
 | Caio V. Marques da Silva | :question: | :question: | :question: | :question: | :question: |
 | Emerson Renaki de Paiva | :question: | :question: | :question: | :question: | :question: |
