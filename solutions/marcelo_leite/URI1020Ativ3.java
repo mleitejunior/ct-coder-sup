@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class URI1020 {
+public class Main {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         // tipo de dados int por nao precisar de casas decimais
