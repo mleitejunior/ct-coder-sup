@@ -1,17 +1,19 @@
-import java.io.IOException;
+//import java.util.Locale;
 import java.util.Scanner;
 
 public class Main {
- 
-    public static void main(String[] args) throws IOException {
- Scanner ler = new Scanner(System.in);
-
+    public static void main(String[] args) {
+        //Locale.setDefault(Locale.US);
+        Scanner ler = new Scanner(System.in);
+        //necessita do tipo de dados float para receber casas decimais
         float valorEmDinheiro = ler.nextFloat();
-
+        // uso do if para verificar se o valor digitado esta entre o solicitado
         if (0 <= valorEmDinheiro && valorEmDinheiro <= 1000000.00f) {
             float restos = valorEmDinheiro;
-
+            // necessita da variavel restos tipo float para controlar o restante do dinheiro
+            // descontando do total
             int notaCem = (int) (valorEmDinheiro / 100);
+            // tem que converter o float em inteiro para aparecer a quantidade inteira das notas
             restos = restos % 100;
             int notaCinquenta = (int) restos / 50;
             restos = restos % 50;
@@ -23,9 +25,13 @@ public class Main {
             restos = restos % 5;
             int notaDois = (int) restos / 2;
             restos = restos % 2;
-
+            /* declarar uma nova váriavel dos restos para calcular as moedas
+            resolvendo o problema do arredondamento com Math.round
+             multiplicqr por 100 para facilitar o trato com casas decimais
+            assim segue o mesmo critério das notas
+            */
             int restosMoeda = (int) Math.round(restos * 100);
-         
+
             int moedasUm = (int) restosMoeda / 100;
             restosMoeda = restosMoeda % 100;
             int moedasCinquenta = (int) (restosMoeda / 50);
@@ -57,3 +63,4 @@ public class Main {
         }
     }
 }
+
