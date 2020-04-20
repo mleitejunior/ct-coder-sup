@@ -32,7 +32,7 @@ Obs: Não pode ser do URI1001 até o URI1008, pode usar do URI1009 para frente..
 | Lucas Viana da Silva | :question: | :question: | :question: | :question: | :question: |
 | Luis Henrique Freire de Lima | :question: | :question: | :question: | :question: | :question: |
 | Luiz Henrique de Oliveira Soares | :question: | :question: | :question: | :question: | :question: |
-| Marcelo Leite | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :question: |
+| Marcelo Leite | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marcos Daniel de Souza Cardoso | :question: | :question: | :question: | :question: | :question: |
 | Matheus de Oliveira Santos | :question: | :question: | :question: | :question: | :question: |
 | Matheus F. Ribeiro | :question: | :question: | :question: | :question: | :question: |
