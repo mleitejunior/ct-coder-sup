@@ -35,7 +35,7 @@ Obs: Não pode ser do URI1001 até o URI1008, pode usar do URI1009 para frente..
 | Marcelo Leite | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Marcos Daniel de Souza Cardoso | :question: | :question: | :question: | :question: | :question: |
 | Matheus de Oliveira Santos | :question: | :question: | :question: | :question: | :question: |
-| Matheus F. Ribeiro | :question: | :question: | :question: | :question: | :question: |
+| Matheus F. Ribeiro | :heavy_check_mark: | :question: | :question: | :heavy_check_mark: | :question: |
 
 ### Exemplo utilizando URI1865
 
