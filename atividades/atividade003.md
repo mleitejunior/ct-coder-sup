@@ -1,4 +1,4 @@
-# Atividade 003 - Entrega até o fim do dia 19/04/2020
+# Atividade 003 - Entrega até o fim do dia 16/05/2020
 
 - Encontrar algum desafio que necessite de algum dos recursos da linguagem java abaixo: 
 
@@ -23,7 +23,7 @@ Obs: Não pode ser do URI1001 até o URI1008, pode usar do URI1009 para frente..
 | Allan de Lima Lopes Moreira | :question: | :question: | :question: | :question: | :question: |
 | Alex de Souza Soares Jr | :question: | :question: | :question: | :question: | :question: |
 | Alex Silva Rodrigues | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Bruna Delmouro da Silva | :question: | :question: | :question: | :question: | :question: |
+| Bruna Delmouro da Silva | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Caio V. Marques da Silva | :question: | :question: | :question: | :question: | :question: |
 | Emerson Renaki de Paiva | :question: | :question: | :question: | :question: | :question: |
 | Gustavo Oliveira Silveira | :question: | :question: | :question: | :question: | :question: |
