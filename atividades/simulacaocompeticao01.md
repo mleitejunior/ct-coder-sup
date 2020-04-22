@@ -1,28 +1,44 @@
-TIME1: [Alex Silva <email>, Maycon Ivis Franca TEC, Igor Alves]
-    
-TIME2: [Bruna Delmouro, Luís Henrique Freire, Josias de Oliveira]
+# Simulaço de Competição 01 - URIONLINEJUDGE
+## Início: Quarta 29/04
+## Fim: Sexta 01/05
 
-TIME3: [Alex de Souza, Luana Costa Sarto TEC, Marcelo Leite]
+- Link: ainda não disponvel
 
-TIME4: [Emerson Renaki, Luiz Eduardo Milan TEC, Gustavo Oliveira]
+TIME1: 
+- **Alex Silva** (Capitão) <alex.rodrigues23997@gmail.com>
+- Maycon Ivis Franca TEC 
+- Igor Alves
 
-TIME5: [Kauan Gonçalves Souza Barbosa TEC, Diego Henrique, Lucas Viana]
+TIME2:
+- Bruna Delmouro
+- **Luís Henrique Freire** (Capitão)
+- Josias de Oliveira
 
-TIME6: [Matheus F. Ribeiro, Caio Marques]
+TIME3: 
+- Alex de Souza
+- Luana Costa Sarto TEC
+- **Marcelo Leite** (Capitão) <mleite64@gmail.com>
 
-Capitães:
-Alex Silva
-Luis Henrique Freire
-Marcelo Leite
-Gustavo Oliveira
-Diego Henrique
-Matheus F. Ribeiro
+TIME4:
+- Emerson Renaki
+- Luiz Eduardo Milan TEC
+- **Gustavo Oliveira** (Capitão)
+
+TIME5:
+- Kauan Gonçalves Souza Barbosa TEC
+- Diego Henrique
+- Lucas Viana
+
+TIME6:
+- **Matheus F. Ribeiro** (Capitão)
+- Caio Marques
+- vaga
 
 ### Capitão são encarregados de:
 
 - Criar time no URIONLINEJUDGE
 - Adicionar seus colegas por e-mail
-- Verificar comigo na sexta feira (17:00) adiante se ta tudo certo no discord/urionlinejudge
+- Verificar comigo a partir de sexta feira (17:00) se está tudo certo no discord/urionlinejudge
 
 ### Código utilizado para gerar times:
 
