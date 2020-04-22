@@ -30,7 +30,7 @@ TIME4:
 
 TIME5:
 - Kauan Gonçalves Souza Barbosa TEC <kauanbrgoncalves@gmail.com>
-- Diego Henrique <diegohenriquexavier2016@gmail.com>
+- **Diego Henrique** (Capitão) <diegohenriquexavier2016@gmail.com>
 - Lucas Viana <lucas.viana.mail@gmail.com>
 
 TIME6:
