@@ -1,0 +1,57 @@
+package Iniciante;
+import java.util.Scanner;
+
+public class URI1094 {
+    public static void main(String[] args) {
+        
+       
+        Scanner sc = new Scanner(System.in);
+          
+        
+        int N = sc.nextInt();
+        int rato = 0, sapo = 0, coelho = 0, total = 0, cob;
+        char Tcobaia ;
+        
+      /* Foram utilizados tres tipos de dados diferentes; inteiro,que é 
+         o contador do FOR, char para guardar as letras que representa as
+         cobaias, double para guardar as porcentagens de cada cobaia. Não 
+         poderia usar inteiro, precissava formatar o numero para 2 casas decimais.
+      */
+        
+        for(int i = 0; i < N; i++){
+             cob = sc.nextInt();
+             Tcobaia = sc.next().charAt(0);
+            
+            switch(Tcobaia){
+           
+                case 'R':
+                  rato = rato + cob;
+                  break;
+                
+                case 'S':
+                  sapo = sapo + cob;
+                  break;
+                
+                case 'C':
+                  coelho = coelho + cob;
+                  break;
+ 
+          }
+                total = rato + sapo + coelho;
+       }
+               
+         System.out.println("Total: "+total+" cobaias");
+         System.out.println("Total de coelhos: "+coelho);
+         System.out.println("Total de ratos: "+rato);
+         System.out.println("Total de sapos: "+sapo);
+   
+        
+        System.out.println("Percentual de coelhos: " + String.format("%.2f", 
+                ((double) coelho / total) * 100) + " %");
+        System.out.println("Percentual de ratos: " + String.format("%.2f", 
+                ((double)  rato / total) * 100) + " %");
+        System.out.println("Percentual de sapos: " + String.format("%.2f", 
+                ((double) sapo / total) * 100) + " %");
+      
+   }
+}

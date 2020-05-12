@@ -1,0 +1,24 @@
+package Iniciante;
+import java.util.Scanner;
+
+public class URI3046 {
+    public static void main(String[] args) {
+        
+        
+        Scanner sc = new Scanner(System.in);
+        
+            int RESULTADO ,N;       
+            N = sc.nextInt();
+            
+            /*Foi utilizado o IF(se), pois esta comparando a entrada com a restrição 
+            imposta, e tambem foi utilizado o &&(e), porque não é so uma restrição 
+            são duas, se a entrada N for maior ou igual á 0 e menor ou igual á 
+            10000, o codigo funciona corretamente se nao ele vai encerra. */
+            
+            if(0 <= N && N <= 10000){
+                
+               RESULTADO = ((N+1)*(N+2))/2;
+                System.out.println(RESULTADO);
+        }
+    }
+}
